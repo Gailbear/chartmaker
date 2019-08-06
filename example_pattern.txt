@@ -1,0 +1,5 @@
+round
+3ch + 11dc, sl
+2sk + 3ch + 1dc, * 3dc, 2dc *, sl
+2sk + 1ch + 1sc, * hdc, dc, 3dc, dc, hdc, sc *, sl
+1sk + 1ch + 1sc, * sc, sc, hdc, 5dc, hdc, sc, sc, sc *, sl

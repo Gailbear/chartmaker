@@ -8,7 +8,7 @@ using generally accepted format for crochet but currently ignoring
 format e.g.
 - 3ch + 1dc, * 3dc, 2dc *, sl
 - means 3chain stitches + 1 double crochet
-- followed by a sequence of 3 double crochet and 2 doubel crochet stitches
+- followed by a sequence of 3 double crochet and 2 double crochet stitches
 - ending the row with a slip stitch
 
 The approach in this code indicates for each stitch:
